@@ -1,0 +1,6 @@
+git --help
+cd documents
+dir (para fijarse en los folders)
+git clone https://github.com/jeansot/progra2.git
+git status (ver archivos modificados)
+git add
