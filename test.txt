@@ -1,6 +1,10 @@
 git --help
-cd documents
+cd (para acceder al folder) documents
 dir (para fijarse en los folders)
 git clone https://github.com/jeansot/progra2.git
 git status (ver archivos modificados)
 git add
+git commit -m "add test" nombreDelArchivo.extensiòn
+git config --global user.email "correo"
+git branch (visualizar en que branch estamos trabajando)
+git push (todos los cambios)
